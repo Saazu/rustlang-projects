@@ -1,0 +1,1 @@
+/Users/ogunthunder/Documents/Rust/projects/minigrep/target/debug/minigrep.dSYM: /Users/ogunthunder/Documents/Rust/projects/minigrep/src/lib.rs /Users/ogunthunder/Documents/Rust/projects/minigrep/src/main.rs
